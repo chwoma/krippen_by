@@ -3,7 +3,7 @@
     "path": "~/Karten/krippen_by/skripte/karte_staedte_by.R",
     "project_path": "skripte/karte_staedte_by.R",
     "type": "r_source",
-    "hash": "4115477650",
+    "hash": "2062714278",
     "contents": "",
     "dirty": false,
     "created": 1708978437791.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,0",
+        "cursorPosition": "15,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1708979163,
+    "lastKnownWriteTime": 1708982121,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1708979163201,
+    "last_content_update": 1708982121424,
     "read_only": false,
     "read_only_alternatives": []
 }
